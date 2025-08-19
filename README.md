@@ -27,20 +27,23 @@ It is demonstrated here with an open dataset of **pet cats in the UK**, from use
 ## File Structure
 
 Pet_Cats_Movement_Analytics/
+
 │── prototype.py # Main analysis script
+
 │── requirements.txt # Python dependencies
+
 │── data/ # Input data (.csv, .tif)
+
 │── outputs/ # Results: .csv, .png, .md
 
 
 ## Arguments:
-
-  --input : raw tracking CSV (e.g. cats dataset, sheep collars)
-  --dem : Digital Elevation Model GeoTIFF
-  --landcover : ESA WorldCover raster
-  --outdir : directory for outputs
-  --max-speed-mps : max plausible speed (e.g. 5 m/s cats, 3 m/s sheep)
-  --resample : resampling interval (seconds)
+--input : raw tracking CSV (e.g. cats dataset, sheep collars)
+--dem : Digital Elevation Model GeoTIFF
+--landcover : ESA WorldCover raster
+--outdir : directory for outputs
+--max-speed-mps : max plausible speed (e.g. 5 m/s cats, 3 m/s sheep)
+--resample : resampling interval (seconds)
 
 ## Example Outputs (300 s)
 
