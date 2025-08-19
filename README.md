@@ -66,7 +66,7 @@ Pet_Cats_Movement_Analytics/
 ![Land cover](artifacts/landcover_bar_300s.png)
 
 interactive map (open in browser):  
-> [`artifacts/tracks_scatter_300s.html`](artifacts/tracks_scatter_300s.html)
+> [`artifacts/tracks_scatter_300s.html`](artifacts/tracks_scatter_300s.html) (Unfortunately this interactive chart cannot be stored here due to size)
 
 
 ## Dependencies
