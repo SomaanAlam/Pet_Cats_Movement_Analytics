@@ -71,14 +71,19 @@ interactive map (open in browser):
 
 ## Dependencies
 
-  pandas, numpy, geopandas, shapely
-  matplotlib, seaborn
-  rasterio, contextily
-  tabulate
+pandas, numpy, geopandas, shapely
+
+matplotlib, seaborn
+
+rasterio, contextily
+
+tabulate
   
 ## Data Sources
 
 McDonald JL, Cole H. 2020. Data from: The small home ranges and large local ecological impacts of pet cats [United Kingdom]. 
 Movebank Data Repository. https://doi.org/10.5441/001/1.pf315732
+
 https://worldcover2021.esa.int/downloader [N30W060]
+
 "A 30 m global map of elevation with forests and buildings removed" published by IOP in Environmental Research Letters at https://dx.doi.org/10.1088/1748-9326/ac4d4f.
