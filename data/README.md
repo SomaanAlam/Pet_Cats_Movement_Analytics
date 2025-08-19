@@ -22,7 +22,9 @@ After download, place files into `data/`:
 
 data/
 ├─ Pet Cats United Kingdom.csv # movement dataset
+
 ├─ FABDEM_UK.tif # DEM (example name)
+
 ├─ WorldCover_UK_2020.tif # Landcover (example name)
 
 ---
