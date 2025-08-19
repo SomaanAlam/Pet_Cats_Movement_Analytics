@@ -1,0 +1,15 @@
+# venv & bytecode
+.venv/
+__pycache__/
+*.pyc
+
+# outputs & heavy files
+out/
+outputs/
+data/*.tif
+data/*.tiff
+data/*.zip
+
+# OS/editor noise
+.DS_Store
+.vscode/
