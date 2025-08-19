@@ -38,11 +38,17 @@ Pet_Cats_Movement_Analytics/
 
 
 ## Arguments:
+
 --input : raw tracking CSV (e.g. cats dataset, sheep collars)
+
 --dem : Digital Elevation Model GeoTIFF
+
 --landcover : ESA WorldCover raster
+
 --outdir : directory for outputs
+
 --max-speed-mps : max plausible speed (e.g. 5 m/s cats, 3 m/s sheep)
+
 --resample : resampling interval (seconds)
 
 ## Example Outputs (300 s)
