@@ -13,3 +13,4 @@ data/*.zip
 # OS/editor noise
 .DS_Store
 .vscode/
+artifacts/*.html
